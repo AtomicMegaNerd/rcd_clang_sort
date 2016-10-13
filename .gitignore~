@@ -1,0 +1,10 @@
+syntax: glob
+
+*~
+Debug
+Release
+*.o
+*.so
+*.g
+*.r
+rcd_clang_*
